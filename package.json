@@ -19,6 +19,7 @@
   "devDependencies": {
     "ambient-attx4": "^0.2.4",
     "ble-ble113a": "^0.1.12",
-    "relay-mono": "^0.1.2"
+    "relay-mono": "^0.1.2",
+    "tesselate": "0.0.2"
   }
 }
