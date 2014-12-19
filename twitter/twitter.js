@@ -13,6 +13,6 @@ var client = new Twitter({
     access_token_secret: 'Qo1YiGIMybZhS4hosiOWdFjYRWYX7PSe0QXpH1rSTetsA'
 });
 
-client.post('statuses/update', {status: process.argv[2], function(error, params, response) {
+client.post('statuses/update',{status: process.argv[2]}, function(error, params, response) {
     if (error) console.log(error);
 });
