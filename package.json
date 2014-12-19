@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/ipeychev/hackathon-2014/issues"
   },
-  "homepage": "https://github.com/ipeychev/hackathon-2014"
+  "homepage": "https://github.com/ipeychev/hackathon-2014",
+  "devDependencies": {
+    "ambient-attx4": "^0.2.4",
+    "ble-ble113a": "^0.1.12",
+    "relay-mono": "^0.1.2"
+  }
 }
